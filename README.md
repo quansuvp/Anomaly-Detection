@@ -6,4 +6,7 @@ Wang et al. Attention-based deep learning for chip-surface-defect detection
 
 Kakumani, Aruna et al. BRB U-Net: Bottleneck Residual Blocks in U-Net for Light-Weight Semantic Segmentation
 
-![alt text](vtadl-datn.ipynb)
+![alt text](bottle.jpg)
+![alt text](leather.jpg)
+![alt text](zipper.jpg)
+
